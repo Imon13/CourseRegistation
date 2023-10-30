@@ -1,0 +1,69 @@
+
+ [
+      {
+        "course_name": "Introduction to C Programmin",
+        "course_img": "../src/assets/Rectangle 2-2.png",
+        "course_description": "It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its lay out.",
+        "course_price": 49.99,
+        "credit": 1
+      },
+      {
+        "course_name": "Introduction to Algorithms",
+        "course_img": "../src/assets/Rectangle 2-3.png",
+        "course_description": "It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its lay out.",
+        "course_price": 69.99,
+        "credit": 4
+      },
+      {
+        "course_name": "Introduction to C++ for DSA        ",
+        "course_img": "../src/assets/Rectangle 2-4.png",
+        "course_description": "It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its lay out.",
+        "course_price": 59.99,
+        "credit": 3
+      },
+      {
+        "course_name": "Basic Data Structures",
+        "course_img": "../src/assets/Rectangle 3.png",
+        "course_description": "It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its lay out.",
+        "course_price": 79.99,
+        "credit": 4
+      },
+      {
+        "course_name": "Introduction to OOP Python        ",
+        "course_img": "../src/assets/Rectangle 2.png",
+        "course_description": "It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its lay out.",
+        "course_price": 54.99,
+        "credit": 3
+      },
+      {
+        "course_name": "Software Engineering",
+        "course_img": "../src/assets/Rectangle 2-5.png",
+        "course_description": "It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its lay out.",
+        "course_price": 89.99,
+        "credit": 4
+      },
+      {
+        "course_name": "AWS, Cloud Computing",
+        "course_img": "../src/assets/Rectangle 3-1.png",
+        "course_description": "It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its lay out.",
+        "course_price": 64.99,
+        "credit": 3
+      },
+      {
+        "course_name": "Database (MySQL)",
+        "course_img": "../src/assets/Rectangle 2-1.png",
+        "course_description": "It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its lay out.",
+        "course_price": 74.99,
+        "credit": 4
+      },
+      {
+        "course_name": "Problem-Solving Part",
+        "course_img": "../src/assets/Rectangle 2-6.png",
+        "course_description": "It is a long established fact that a reader will be distracted by the  readable content of a page when looking at its lay out.",
+        "course_price": 59.99,
+        "credit": 3
+      }
+    
+  
+]
+  
